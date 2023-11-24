@@ -1,0 +1,3 @@
+/home/parallels/CLionProjects/WeatherP/cmake-build-debug/CMakeFiles/WeatherP.dir
+/home/parallels/CLionProjects/WeatherP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/CLionProjects/WeatherP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

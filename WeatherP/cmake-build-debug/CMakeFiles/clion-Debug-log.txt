@@ -1,0 +1,6 @@
+/home/parallels/Documents/clion-2023.2.2/bin/cmake/linux/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/parallels/Documents/clion-2023.2.2/bin/ninja/linux/aarch64/ninja -G Ninja -S /home/parallels/CLionProjects/WeatherP -B /home/parallels/CLionProjects/WeatherP/cmake-build-debug
+-- Checking for module 'json-c'
+--   Found json-c, version 0.15
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/parallels/CLionProjects/WeatherP/cmake-build-debug
